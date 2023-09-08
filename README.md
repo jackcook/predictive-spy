@@ -6,7 +6,7 @@ With this repository, you can snoop on activity from the new predictive text mod
 **Note:** At some point this summer, Apple removed the ability to spy on model predictions at some point, but I’m not sure which beta they did this in.
 I can confirm it works in macOS Sonoma beta 1, but not in beta 7.
 
-![Demo snooping on predictive text model predictions](/assets/output.gif)
+<img src="/assets/output.gif" width="75%" alt="Demo snooping on predictive text model predictions" />
 
 ## Introduction
 
