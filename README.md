@@ -1,12 +1,12 @@
 # Predictive Spy 🕵️
 
-Code accompanying my blogpost, “A look at Apple’s new Transformer-powered predictive text model.”
+Code accompanying my blogpost, “[A look at Apple’s new Transformer-powered predictive text model.](https://jackcook.com/2023/09/08/predictive-text.html)”
 With this repository, you can snoop on activity from the new predictive text model in macOS Sonoma.
 
 **Note:** At some point this summer, Apple removed the ability to spy on model predictions at some point, but I’m not sure which beta they did this in.
 I can confirm it works in macOS Sonoma beta 1, but not in beta 7.
 
-<img src="/assets/output.gif" width="75%" alt="Demo snooping on predictive text model predictions" />
+<img src="/assets/output.gif" width="75%" style="margin: 0 auto" alt="Demo snooping on predictive text model predictions" />
 
 ## Introduction
 
