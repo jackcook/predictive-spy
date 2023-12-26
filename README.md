@@ -13,7 +13,7 @@ I can confirm it works in macOS Sonoma beta 1, but not in beta 7.
 This repository has two scripts:
 
 - **get_tokens.py**: Generates a vocabulary file from the predictive text model
-- **spy.py**: Spies on predictive text model activity
+- **app.py**: Spies on predictive text model activity
 
 Both scripts only work on macOS Sonoma (14), neither will work on macOS Ventura (13) or earlier.
 If you’re just interested in getting the vocabulary file, you don’t need to follow any of the setup instructions.
