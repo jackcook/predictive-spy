@@ -41,17 +41,9 @@ However, I had trouble doing this in my VM, so I downloaded the most recent Comm
 
 ### Install fq
 
-To install [`fq`](https://github.com/wader/fq), you can follow the instructions in their README, or use these commands:
+To install [`fq`](https://github.com/wader/fq), you can follow the instructions in their README, or install with Homebrew:
 
 ```bash
-# Install homebrew
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-# Add brew to path
-(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/jackcook/.zprofile
-eval "$(/opt/homebrew/bin/brew shellenv)"
-
-# Install fq
 brew install wader/tap/fq
 ```
 
